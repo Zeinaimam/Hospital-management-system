@@ -18,3 +18,4 @@ public class patient
 
 	}
 }
+piblic class doctor 
